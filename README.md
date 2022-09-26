@@ -2,7 +2,7 @@
 
 ### 🤔 How to join?
 
-To join our union, you must send us a pull request by adding a member function call with your GitHub username in [src/union.ts](https://github.com/vectier/invitation/blob/main/src/union.ts#L5) after other members.
+To join our union, you must send us a pull request by adding a member function call with your GitHub username in [src/union.ts](https://github.com/cpe-kmutt-student/invitation/blob/main/src/union.ts) after other members.
 
 ```ts
 member('this-is-my-github-username');
