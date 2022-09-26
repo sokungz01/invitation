@@ -1,5 +1,5 @@
 import { member, organization } from '@/functions/github';
 
-organization('vectier');
+organization('cpe-kmutt-student');
 
 member('riflowth');
