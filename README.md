@@ -7,12 +7,13 @@ To join our union, you must send us a pull request by adding a member function c
 ```ts
 member('this-is-my-github-username');
 ```
+> Don't forget to introduce yourself in a pull request ticket!  
+> It must include your KMUTT student id *(630705xxxxx)* to identify your KMUTT status.
 
 After your pull request is merged. please accept the invitation in your e-mail **within 7 days**,
 otherwise, the invitation will expire.
 
-Don't forget to introduce yourself in a pull request ticket!  
-It must include your KMUTT student id *(630705xxxxx)* to identify your KMUTT status.
+Once you are a member, you can go to the [member list page](https://github.com/orgs/cpe-kmutt-student/people) and change the membership visibility to "Public." This will add the **CPE** logo to your GitHub profile.
 
 ***HAVE A NICE DAY IN OUR UNION 💗***
 
