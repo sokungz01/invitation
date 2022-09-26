@@ -16,5 +16,8 @@ It must include your KMUTT student id *(630705xxxxx)* to identify your KMUTT sta
 
 ***HAVE A NICE DAY IN OUR UNION 💗***
 
-### 📜 What is this union?
-[CPE, KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization to develop software/hardware for the [Computer Engineering Department of KMUTT]() by the students themselves. For the main purpose, it is to collect repositories in one place, and to make it easier to manage and search repositories for the next generation of CPE KMUTT student.
+### 🤔 What is this union?
+
+[CPE KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization to develop software/hardware for the Activities organized by students of the [Department of Computer Engineering, KMUTT](https://cpe.kmutt.ac.th/).
+
+For the main purpose, it is to collect repositories in one place, and to make it easier to manage and search repositories for the next generation of CPE KMUTT students.
