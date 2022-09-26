@@ -8,6 +8,9 @@ To join our union, you must send us a pull request by adding a member function c
 member('this-is-my-github-username');
 ```
 
+After your pull request is merged. please accept the invitation in your e-mail **within 7 days**,
+otherwise, the invitation will expire.
+
 Don't forget to introduce yourself in a pull request ticket!  
 It must include your KMUTT student id *(630705xxxxx)* to identify your KMUTT status.
 
