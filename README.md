@@ -10,6 +10,9 @@ member('this-is-my-github-username');
 > Don't forget to introduce yourself in a pull request ticket!  
 > Your KMUTT student ID *(630705xxxxx)* is required in the pull request ticket to identify your KMUTT status.
 
+> **IF YOU DON'T HAVE ANY IDEA WHAT MESSAGE SHOULD I PUT INTO THE PULL REQUEST**.  
+> Here are some cool example [pull requests!](https://github.com/cpe-kmutt-student/invitation/issues?q=label%3A%22%F0%9F%98%8E+Joke+Award%22%2C%22%F0%9F%94%96+Title+Award%22)
+
 After your pull request is merged, please accept the invitation sent in your e-mail **within 7 days**,
 otherwise, the invitation will expire.
 
