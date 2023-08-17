@@ -18,10 +18,10 @@ otherwise, the invitation will expire.
 
 Once you are a member of our union, you can go to the [member list page](https://github.com/orgs/cpe-kmutt-student/people) and change the membership visibility to "Public". After that, the **CPE** logo will be added to your GitHub profile.
 
-***HAVE A GREAT EXPERIENCE OUR UNION 💗***
+***HAVE A GREAT DAY IN OUR UNION 💗***
 
 ### 🤔 What is this union?
 
-[CPE KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization for developing software/hardware for activities organized by students from the [Department of Computer Engineering, KMUTT](https://cpe.kmutt.ac.th/).
+[CPE KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization focused on developing software and hardware for activities organized by students of the [Department of Computer Engineering at KMUTT](https://cpe.kmutt.ac.th/).
 
-The main purpose of the union is to gather KMUTT-involved repositories in one place, and to make managing and searching such repositories easier for the next generation of KMUTT CPE students.
+The primary objective of this GitHub organization is to centralize KMUTT-related repositories in a single location, simplifying the management and discovery of these repositories for upcoming generations of KMUTT CPE students.
