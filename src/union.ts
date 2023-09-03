@@ -1,8 +1,9 @@
-import { member, organization } from '@/functions/github';
+import { admin, member, organization } from '@/functions/github';
 
 organization('cpe-kmutt-student');
 
-member('riflowth');
+admin('riflowth');
+
 member('eltfshr');
 member('sokungz01');
 member('Porping');
